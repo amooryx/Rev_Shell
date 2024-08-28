@@ -4,7 +4,7 @@ import sys
 ascii_art = """
                 ______
                /      \
-              (  W00f! )
+              (  Shell! )
                \  ____/
                ,,    __            404 Hack Not Found
            |`-.__   / /                      __     __
