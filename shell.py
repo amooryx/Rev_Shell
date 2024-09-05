@@ -1,6 +1,5 @@
 import re
 import sys
-# Define the ASCII art for a hacker typing on a laptop
 ascii_art = """
                 ______
                /      \
