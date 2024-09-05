@@ -19,15 +19,15 @@ ascii_art = """
      
 """
 
-# Define the hacker emoji
+
 Egypt = "🇪🇬"
 
-# Print the ASCII art and the emoji
+
 def print_hacker_tool():
     print(ascii_art)
     print(f"Omar Loves Egypt {Egypt}")
 
-# Execute the function to display the ASCII art and emoji
+
 print_hacker_tool()
 
 def print_menu():
